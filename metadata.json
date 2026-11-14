@@ -1,0 +1,6 @@
+{
+  "name": "EVOLVIX AI",
+  "description": "EVOLVIX AI — Agentic AI-powered career discovery, skill intelligence, and adaptive learning platform for students, mentors, universities, and platform administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
